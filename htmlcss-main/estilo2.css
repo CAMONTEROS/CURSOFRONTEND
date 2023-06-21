@@ -1,0 +1,51 @@
+
+
+html {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    -webkit-text-size-adjust: 100%;
+    background: #fff;
+    color: rgb(20, 17, 17);
+    padding: 20;
+}
+
+body {
+    margin: 25
+}
+
+h3 {
+    color: #6a050e;
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: 400;
+}
+
+ol,ul {
+    padding-left: 30px;
+    color:  #6a050e;    
+}
+
+ img  {
+    width: 10%;
+    height: 10%;
+    height: auto;
+    box-sizing: border-box;
+    border: 10px solid #dddddd;
+    border-radius: 50% !important;
+    float: left;
+}
+
+
+div.cuadrado {
+     
+    padding: 20px;
+    margin-left: 250px;
+    position: relative;
+     margin-top: 50px;
+ 
+    color: #a94442;
+    background-color: #f2dede;
+    border-color: #ebccd1;
+}
